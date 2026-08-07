@@ -1,0 +1,23 @@
+# Frontend Capstone
+
+A frontend web application built as a portfolio-ready capstone project.
+
+## Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## Project Goal
+
+This project is being developed as a frontend portfolio capstone, focused on delivering a responsive and accessible web experience.
+
+## Run Locally
+
+Because this project is built with static frontend technologies, you can serve it locally from the project root:
+
+```bash
+python -m http.server 8000
+```
+
+Then open <http://localhost:8000> in your browser.
