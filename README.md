@@ -33,3 +33,10 @@ This project is built with vanilla HTML, CSS, and JavaScript.
 - Use clear and descriptive JavaScript names.
 - Test changes before committing.
 - Follow Conventional Commits for Git messages.
+## Project Structure
+
+- `index.html` - Main HTML page
+- `styles.css` - Main stylesheet
+- `script.js` - JavaScript functionality
+- `validation.js` - Form validation
+- `test-validation.js` - Validation tests
