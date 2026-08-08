@@ -18,3 +18,13 @@
 
 - Use AI to review and improve code.
 - Review AI-generated changes before accepting them.
+## Git Conventions
+
+Use Conventional Commits for all commits.
+
+Examples:
+- feat: add a new feature
+- fix: fix a bug
+- docs: update documentation
+- chore: update project configuration
+- refactor: improve code structure
