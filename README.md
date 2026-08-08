@@ -21,3 +21,15 @@ python -m http.server 8000
 ```
 
 Then open <http://localhost:8000> in your browser.
+
+## Development
+
+This project is built with vanilla HTML, CSS, and JavaScript.
+
+### Development Guidelines
+
+- Write semantic and accessible HTML.
+- Keep CSS organized and maintainable.
+- Use clear and descriptive JavaScript names.
+- Test changes before committing.
+- Follow Conventional Commits for Git messages.
